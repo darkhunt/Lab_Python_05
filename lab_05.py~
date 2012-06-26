@@ -1,0 +1,3 @@
+def do(thing):
+    return str(thing)+ str(1)
+do(5)
